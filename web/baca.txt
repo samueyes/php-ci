@@ -1,0 +1,1 @@
+ini berisi file-file php yang akan di jalankan
